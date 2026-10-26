@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "repository": "gcake119/takao-city-frontend",
+  "role": "frontend",
+  "coordination": "https://github.com/gcake119/takao-city",
+  "applicationStatus": "not-initialized",
+  "verificationScope": "repository-baseline-only",
+  "applicationVerification": "not-implemented-not-tested"
+}
